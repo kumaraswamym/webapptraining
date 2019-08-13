@@ -17,7 +17,7 @@
   </table>
 
   <br />
-  <p>This is the output of a JSP page that is part of the WebApplication.</p>
+  <p>This is the output of a login page that is part of the WebApplication.</p>
 
   <%= new String("Hello!") %>
 
